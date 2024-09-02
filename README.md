@@ -2,8 +2,8 @@
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on my render engine project for browser
-- 📫 reach me on x >>> @saksham6068
-- 😄 Pronouns: he/him
+- 📫 reach me on discord>>> tom4361
+-  😄 Pronouns: he/him
 - ⚡ Fun fact: life can be much harder , u hust have to fk things up (REAL)
 
 <!---
